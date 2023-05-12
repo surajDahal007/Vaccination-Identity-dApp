@@ -1,0 +1,16 @@
+.input{
+    margin:5% 10% ;
+}
+
+.connectionDetail{
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.check{
+    font-size: 15px;
+    font-style: italic;
+    color:red;
+    margin-bottom: 2px;
+}

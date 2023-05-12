@@ -1,0 +1,14 @@
+.main{
+    background: rgb(223, 213, 213);
+    height: 100vh;
+}
+
+.true{
+    color:green;
+    font-weight: bold;
+}
+
+.false{
+    color:red;
+    font-weight: bold;
+}
